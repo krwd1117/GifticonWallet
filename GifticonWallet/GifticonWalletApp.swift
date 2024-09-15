@@ -11,7 +11,7 @@ import SwiftUI
 struct GifticonWalletApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            IntroView()
         }
     }
 }
